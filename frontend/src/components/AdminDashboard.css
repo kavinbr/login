@@ -1,0 +1,20 @@
+/* AdminDashboard.css */
+.search-box {
+    border: 1px solid #ced4da; /* Add border to the search box */
+    border-radius: 0.25rem; /* Optional: Adjust border radius */
+    box-shadow: none; /* Optional: Remove box-shadow */
+}
+
+.no-border {
+    border: none !important; /* Remove border from the column */
+}
+.show{
+    position: relative;
+    top: -4rem;
+    left: 45rem;
+}
+.logout{
+    position: relative;
+    top: -4rem;
+    left: 5rem;
+}
